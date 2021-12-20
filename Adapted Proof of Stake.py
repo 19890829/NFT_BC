@@ -5,7 +5,7 @@
 
 
 """
-    Adapted Python implementation of POW for higher numbers of participants
+    Adapted Python implementation of POS for higher numbers of participants
     Credit: https://github.com/mycoralhealth/blockchain-tutorial
     Credit: https://github.com/eltNEG/proof_of_stake
 """
